@@ -41,7 +41,7 @@
     7.4. Any other activities that demonstrate relevant skills or competencies.
 
 
-## Tips:
+## Tips
 
 1. Avoid spelling or grammatical mistakes. (Use Grammarly)
 
@@ -81,7 +81,7 @@ Scaled the service 3x,
 Increased product usage by Y% etc.
 
 
-# Action Verbs for your Resume
+## Action Verbs for your Resume
 
 1. LEADERSHIP
 
