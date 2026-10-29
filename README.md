@@ -41,7 +41,7 @@
     7.4. Any other activities that demonstrate relevant skills or competencies.
 
 
-⭕ Tips:
+## Tips:
 
 1. Avoid spelling or grammatical mistakes. (Use Grammarly)
 
